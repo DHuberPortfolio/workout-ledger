@@ -1,0 +1,6 @@
+# Personal data exports — never commit these
+*PRIVATE*.json
+workout-ledger-*.json
+my-*.json
+.DS_Store
+node_modules/

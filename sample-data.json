@@ -1,0 +1,4325 @@
+{
+  "days": {
+    "2026-09-06": {
+      "date": "2026-09-06",
+      "phase": "Sample cut",
+      "calIn": 3360,
+      "calOut": 2550,
+      "protein": 244,
+      "carbs": 337,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Pizza, 3 slices",
+          "cal": 840,
+          "protein": 33,
+          "carbs": 95
+        }
+      ],
+      "weight": 200,
+      "notes": "Planned treat meal.",
+      "workout": "Back",
+      "anchor": true
+    },
+    "2026-09-07": {
+      "date": "2026-09-07",
+      "phase": "Sample cut",
+      "calIn": 1335,
+      "calOut": 2420,
+      "protein": 131,
+      "carbs": 123,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        }
+      ],
+      "weight": 200.8,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-08": {
+      "date": "2026-09-08",
+      "phase": "Sample cut",
+      "calIn": 1595,
+      "calOut": 2550,
+      "protein": 143,
+      "carbs": 155,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        }
+      ],
+      "weight": 199.4,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-09-09": {
+      "date": "2026-09-09",
+      "phase": "Sample cut",
+      "calIn": 1540,
+      "calOut": 2750,
+      "protein": 91,
+      "carbs": 217,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        }
+      ],
+      "weight": 199.3,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-09-10": {
+      "date": "2026-09-10",
+      "phase": "Sample cut",
+      "calIn": 1655,
+      "calOut": 2550,
+      "protein": 162,
+      "carbs": 114,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": 199.9,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "phase": "Sample cut",
+      "calIn": 1810,
+      "calOut": 2750,
+      "protein": 132,
+      "carbs": 188,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 199.8,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-12": {
+      "date": "2026-09-12",
+      "phase": "Sample cut",
+      "calIn": 1585,
+      "calOut": 2690,
+      "protein": 106,
+      "carbs": 211,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        }
+      ],
+      "weight": 198.7,
+      "notes": ""
+    },
+    "2026-09-13": {
+      "date": "2026-09-13",
+      "phase": "Sample cut",
+      "calIn": 3320,
+      "calOut": 2760,
+      "protein": 202,
+      "carbs": 353,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Pizza, 3 slices",
+          "cal": 840,
+          "protein": 33,
+          "carbs": 95
+        }
+      ],
+      "weight": 198.7,
+      "notes": "Planned treat meal.",
+      "workout": "Back"
+    },
+    "2026-09-14": {
+      "date": "2026-09-14",
+      "phase": "Sample cut",
+      "calIn": 1490,
+      "calOut": 2790,
+      "protein": 106,
+      "carbs": 171,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-15": {
+      "date": "2026-09-15",
+      "phase": "Sample cut",
+      "calIn": 1575,
+      "calOut": 2550,
+      "protein": 116,
+      "carbs": 180,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "phase": "Sample cut",
+      "calIn": 1430,
+      "calOut": 2550,
+      "protein": 138,
+      "carbs": 138,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        }
+      ],
+      "weight": 198,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "phase": "Sample cut",
+      "calIn": 1700,
+      "calOut": 2740,
+      "protein": 162,
+      "carbs": 184,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        }
+      ],
+      "weight": 197.2,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-09-18": {
+      "date": "2026-09-18",
+      "phase": "Sample cut",
+      "calIn": 1375,
+      "calOut": 2790,
+      "protein": 128,
+      "carbs": 124,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-19": {
+      "date": "2026-09-19",
+      "phase": "Sample cut",
+      "calIn": 1465,
+      "calOut": 2300,
+      "protein": 111,
+      "carbs": 125,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 197.7,
+      "notes": ""
+    },
+    "2026-09-20": {
+      "date": "2026-09-20",
+      "phase": "Sample cut",
+      "calIn": 1675,
+      "calOut": 2550,
+      "protein": 145,
+      "carbs": 162,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Back"
+    },
+    "2026-09-21": {
+      "date": "2026-09-21",
+      "phase": "Sample cut",
+      "calIn": 1405,
+      "calOut": 2420,
+      "protein": 118,
+      "carbs": 133,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        }
+      ],
+      "weight": 197.1,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "phase": "Sample cut",
+      "calIn": 1870,
+      "calOut": 2870,
+      "protein": 120,
+      "carbs": 201,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 195.9,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-09-23": {
+      "date": "2026-09-23",
+      "phase": "Sample cut",
+      "calIn": 1415,
+      "calOut": 2550,
+      "protein": 130,
+      "carbs": 152,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        }
+      ],
+      "weight": 195.2,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "phase": "Sample cut",
+      "calIn": 1425,
+      "calOut": 2550,
+      "protein": 159,
+      "carbs": 102,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        }
+      ],
+      "weight": 195.7,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-09-25": {
+      "date": "2026-09-25",
+      "phase": "Sample cut",
+      "calIn": 1975,
+      "calOut": 2700,
+      "protein": 133,
+      "carbs": 195,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 195.7,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-26": {
+      "date": "2026-09-26",
+      "phase": "Sample cut",
+      "calIn": 1825,
+      "calOut": 2980,
+      "protein": 156,
+      "carbs": 191,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        }
+      ],
+      "weight": 195.5,
+      "notes": ""
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "phase": "Sample cut",
+      "calIn": 1500,
+      "calOut": 2890,
+      "protein": 175,
+      "carbs": 83,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        }
+      ],
+      "weight": 194.3,
+      "notes": "",
+      "workout": "Back"
+    },
+    "2026-09-28": {
+      "date": "2026-09-28",
+      "phase": "Sample cut",
+      "calIn": 1505,
+      "calOut": 2610,
+      "protein": 146,
+      "carbs": 60,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        }
+      ],
+      "weight": 194.7,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-09-29": {
+      "date": "2026-09-29",
+      "phase": "Sample cut",
+      "calIn": 1610,
+      "calOut": 2550,
+      "protein": 110,
+      "carbs": 180,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": 194.1,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "phase": "Sample cut",
+      "calIn": 1370,
+      "calOut": 2900,
+      "protein": 102,
+      "carbs": 149,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-10-01": {
+      "date": "2026-10-01",
+      "phase": "Sample cut",
+      "calIn": 1915,
+      "calOut": 2740,
+      "protein": 201,
+      "carbs": 137,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": 194.1,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-10-02": {
+      "date": "2026-10-02",
+      "phase": "Sample cut",
+      "calIn": 1560,
+      "calOut": 2420,
+      "protein": 160,
+      "carbs": 128,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-10-03": {
+      "date": "2026-10-03",
+      "phase": "Sample cut",
+      "calIn": 1485,
+      "calOut": 2300,
+      "protein": 149,
+      "carbs": 143,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        }
+      ],
+      "weight": 192.7,
+      "notes": ""
+    },
+    "2026-10-04": {
+      "date": "2026-10-04",
+      "phase": "Sample cut",
+      "calIn": 1775,
+      "calOut": 2550,
+      "protein": 154,
+      "carbs": 177,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 193.3,
+      "notes": "",
+      "workout": "Back"
+    },
+    "2026-10-05": {
+      "date": "2026-10-05",
+      "phase": "Sample cut",
+      "calIn": 1615,
+      "calOut": 2420,
+      "protein": 120,
+      "carbs": 172,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-10-06": {
+      "date": "2026-10-06",
+      "phase": "Sample cut",
+      "calIn": 1835,
+      "calOut": 2870,
+      "protein": 135,
+      "carbs": 184,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 192.6,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-10-07": {
+      "date": "2026-10-07",
+      "phase": "Sample cut",
+      "calIn": 1435,
+      "calOut": 2800,
+      "protein": 120,
+      "carbs": 157,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        }
+      ],
+      "weight": 191.5,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "phase": "Sample cut",
+      "calIn": 1325,
+      "calOut": 2790,
+      "protein": 133,
+      "carbs": 79,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-10-09": {
+      "date": "2026-10-09",
+      "phase": "Sample cut",
+      "calIn": 3090,
+      "calOut": 2420,
+      "protein": 232,
+      "carbs": 281,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Pizza, 3 slices",
+          "cal": 840,
+          "protein": 33,
+          "carbs": 95
+        }
+      ],
+      "weight": 191,
+      "notes": "Planned treat meal.",
+      "workout": "Active recovery"
+    },
+    "2026-10-10": {
+      "date": "2026-10-10",
+      "phase": "Sample cut",
+      "calIn": 1565,
+      "calOut": 2300,
+      "protein": 135,
+      "carbs": 119,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        }
+      ],
+      "weight": 191.2,
+      "notes": ""
+    },
+    "2026-10-11": {
+      "date": "2026-10-11",
+      "phase": "Sample cut",
+      "calIn": 1595,
+      "calOut": 2550,
+      "protein": 101,
+      "carbs": 189,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        }
+      ],
+      "weight": 191.4,
+      "notes": "",
+      "workout": "Back"
+    },
+    "2026-10-12": {
+      "date": "2026-10-12",
+      "phase": "Sample cut",
+      "calIn": 1365,
+      "calOut": 2610,
+      "protein": 118,
+      "carbs": 83,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": 191,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "phase": "Sample cut",
+      "calIn": 1490,
+      "calOut": 2880,
+      "protein": 150,
+      "carbs": 86,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        }
+      ],
+      "weight": 190.5,
+      "notes": "",
+      "workout": "Chest"
+    },
+    "2026-10-14": {
+      "date": "2026-10-14",
+      "phase": "Sample cut",
+      "calIn": 1500,
+      "calOut": 2760,
+      "protein": 136,
+      "carbs": 144,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        }
+      ],
+      "weight": 190.7,
+      "notes": "",
+      "workout": "Legs"
+    },
+    "2026-10-15": {
+      "date": "2026-10-15",
+      "phase": "Sample cut",
+      "calIn": 1520,
+      "calOut": 2780,
+      "protein": 192,
+      "carbs": 87,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        }
+      ],
+      "weight": 189.3,
+      "notes": "",
+      "workout": "Arms"
+    },
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "phase": "Sample cut",
+      "calIn": 1860,
+      "calOut": 2420,
+      "protein": 203,
+      "carbs": 139,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Potato, medium",
+          "cal": 160,
+          "protein": 4,
+          "carbs": 37
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Banana",
+          "cal": 105,
+          "protein": 1,
+          "carbs": 27
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        }
+      ],
+      "weight": 189.7,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-10-17": {
+      "date": "2026-10-17",
+      "phase": "Sample cut",
+      "calIn": 1410,
+      "calOut": 2520,
+      "protein": 131,
+      "carbs": 104,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Rice, 1 cup",
+          "cal": 200,
+          "protein": 4,
+          "carbs": 45
+        },
+        {
+          "item": "Cottage cheese, 1 cup",
+          "cal": 180,
+          "protein": 25,
+          "carbs": 8
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        }
+      ],
+      "weight": 189.5,
+      "notes": ""
+    },
+    "2026-10-18": {
+      "date": "2026-10-18",
+      "phase": "Sample cut",
+      "calIn": 1620,
+      "calOut": 2790,
+      "protein": 194,
+      "carbs": 55,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Back"
+    },
+    "2026-10-19": {
+      "date": "2026-10-19",
+      "phase": "Sample cut",
+      "calIn": 1485,
+      "calOut": 2420,
+      "protein": 145,
+      "carbs": 96,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Salmon, 5 oz",
+          "cal": 290,
+          "protein": 32,
+          "carbs": 0
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Turkey sandwich",
+          "cal": 420,
+          "protein": 30,
+          "carbs": 40
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        }
+      ],
+      "weight": 188.1,
+      "notes": "",
+      "workout": "Active recovery"
+    },
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "phase": "Sample cut",
+      "calIn": 1685,
+      "calOut": 2910,
+      "protein": 181,
+      "carbs": 100,
+      "food": [
+        {
+          "item": "Multivitamin",
+          "cal": 10,
+          "protein": 0,
+          "carbs": 1
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Latte, grande",
+          "cal": 190,
+          "protein": 12,
+          "carbs": 18
+        },
+        {
+          "item": "Greek yogurt cup",
+          "cal": 150,
+          "protein": 20,
+          "carbs": 10
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Chicken breast, 6 oz",
+          "cal": 280,
+          "protein": 52,
+          "carbs": 0
+        },
+        {
+          "item": "Berries, 1 cup",
+          "cal": 65,
+          "protein": 1,
+          "carbs": 15
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        },
+        {
+          "item": "Eggs ×3",
+          "cal": 210,
+          "protein": 18,
+          "carbs": 1
+        },
+        {
+          "item": "Protein bar",
+          "cal": 210,
+          "protein": 20,
+          "carbs": 22
+        }
+      ],
+      "weight": null,
+      "notes": "",
+      "workout": "Chest"
+    }
+  },
+  "sessions": {
+    "2026-09-06": {
+      "date": "2026-09-06",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 100,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 110,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 150,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 70,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-09-07": {
+      "date": "2026-09-07",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 60,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 90,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-09-08": {
+      "date": "2026-09-08",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 40,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 35,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 20,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 15,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-09-09": {
+      "date": "2026-09-09",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 250,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 80,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Leg extension",
+          "weight": 90,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 150,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-09-10": {
+      "date": "2026-09-10",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 45,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 20,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 25,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 45,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 60,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 90,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-13": {
+      "date": "2026-09-13",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 105,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 115,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 155,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 70,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-09-14": {
+      "date": "2026-09-14",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 60,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-15": {
+      "date": "2026-09-15",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 42.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 37.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 20,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 15,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 260,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 85,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Leg extension",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 155,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 45,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 20,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 25,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 45,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-18": {
+      "date": "2026-09-18",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-20": {
+      "date": "2026-09-20",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 105,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 115,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 160,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 75,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-09-21": {
+      "date": "2026-09-21",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 42.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 37.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 15,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-23": {
+      "date": "2026-09-23",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 270,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 85,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Leg extension",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 160,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 50,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 27.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 50,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-09-25": {
+      "date": "2026-09-25",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 95,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 110,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 120,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 165,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 75,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-09-28": {
+      "date": "2026-09-28",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 100,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-09-29": {
+      "date": "2026-09-29",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 42.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 37.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 17.5,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 270,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 90,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Leg extension",
+          "weight": 100,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 165,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-01": {
+      "date": "2026-10-01",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 50,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 27.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 50,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-02": {
+      "date": "2026-10-02",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 100,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-10-04": {
+      "date": "2026-10-04",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 110,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 120,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 165,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 80,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-05": {
+      "date": "2026-10-05",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 65,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 10,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 100,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-06": {
+      "date": "2026-10-06",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 45,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 40,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 17.5,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-07": {
+      "date": "2026-10-07",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 280,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 90,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Leg extension",
+          "weight": 100,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 170,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 50,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 27.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 50,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-10-09": {
+      "date": "2026-10-09",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 70,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 12.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 100,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-11": {
+      "date": "2026-10-11",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 115,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 125,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 170,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 80,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-12": {
+      "date": "2026-10-12",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 70,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 12.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 105,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 45,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 40,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 17.5,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    },
+    "2026-10-14": {
+      "date": "2026-10-14",
+      "focus": "Legs",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "weight": 290,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated leg curl",
+          "weight": 90,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Leg extension",
+          "weight": 105,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Hip abduction",
+          "weight": 175,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-10-15": {
+      "date": "2026-10-15",
+      "focus": "Arms",
+      "exercises": [
+        {
+          "name": "EZ bar curl",
+          "weight": 50,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Overhead DB tricep extension",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Hammer curl (per arm)",
+          "weight": 30,
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "Cable tricep pushdown",
+          "weight": 50,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 70,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 12.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 105,
+          "sets": 3,
+          "reps": 8
+        }
+      ]
+    },
+    "2026-10-18": {
+      "date": "2026-10-18",
+      "focus": "Back",
+      "exercises": [
+        {
+          "name": "Lat pulldown",
+          "weight": 115,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated cable row",
+          "weight": 130,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Seated back extension",
+          "weight": 175,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Reverse pec deck",
+          "weight": 80,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-10-19": {
+      "date": "2026-10-19",
+      "focus": "Active recovery",
+      "exercises": [
+        {
+          "name": "Ab crunch machine",
+          "weight": 70,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Lateral raise (per arm)",
+          "weight": 12.5,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Torso rotation (reps per side)",
+          "weight": 105,
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "focus": "Chest",
+      "exercises": [
+        {
+          "name": "Flat DB press (per arm)",
+          "weight": 47.5,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Incline DB press (per arm)",
+          "weight": 40,
+          "sets": 3,
+          "reps": 8
+        },
+        {
+          "name": "Cable fly — mid (per arm)",
+          "weight": 22.5,
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "Cable fly — low (per arm)",
+          "weight": 17.5,
+          "sets": 3,
+          "reps": 10
+        }
+      ]
+    }
+  },
+  "runs": {
+    "2026-09-09": {
+      "date": "2026-09-09",
+      "miles": 1.77,
+      "pace": "9:41",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "miles": 2.9,
+      "pace": "9:17",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-12": {
+      "date": "2026-09-12",
+      "miles": 3.38,
+      "pace": "8:53",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-13": {
+      "date": "2026-09-13",
+      "miles": 1.84,
+      "pace": "10:07",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-14": {
+      "date": "2026-09-14",
+      "miles": 3.24,
+      "pace": "10:03",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "miles": 1.61,
+      "pace": "9:36",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-18": {
+      "date": "2026-09-18",
+      "miles": 3.19,
+      "pace": "9:54",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "miles": 2.82,
+      "pace": "8:57",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-25": {
+      "date": "2026-09-25",
+      "miles": 2.47,
+      "pace": "9:20",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-26": {
+      "date": "2026-09-26",
+      "miles": 5.91,
+      "pace": "9:23",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "miles": 2.98,
+      "pace": "9:33",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-28": {
+      "date": "2026-09-28",
+      "miles": 1.63,
+      "pace": "8:51",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "miles": 3.06,
+      "pace": "8:38",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-01": {
+      "date": "2026-10-01",
+      "miles": 1.64,
+      "pace": "10:00",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-06": {
+      "date": "2026-10-06",
+      "miles": 2.79,
+      "pace": "9:10",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-07": {
+      "date": "2026-10-07",
+      "miles": 2.18,
+      "pace": "8:53",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "miles": 2.05,
+      "pace": "8:49",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-12": {
+      "date": "2026-10-12",
+      "miles": 1.67,
+      "pace": "9:51",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "miles": 2.87,
+      "pace": "9:27",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-14": {
+      "date": "2026-10-14",
+      "miles": 1.86,
+      "pace": "9:11",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-15": {
+      "date": "2026-10-15",
+      "miles": 2,
+      "pace": "9:45",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-17": {
+      "date": "2026-10-17",
+      "miles": 1.9,
+      "pace": "8:38",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-18": {
+      "date": "2026-10-18",
+      "miles": 2.06,
+      "pace": "8:58",
+      "type": "Run",
+      "note": ""
+    },
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "miles": 3.14,
+      "pace": "8:40",
+      "type": "Run",
+      "note": ""
+    }
+  },
+  "tryList": {},
+  "config": {
+    "goalWeight": 183,
+    "goalDate": null
+  }
+}

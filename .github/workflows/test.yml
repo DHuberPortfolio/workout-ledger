@@ -1,0 +1,24 @@
+# Runs the test suite on every push and pull request, on Linux and Windows, on the two
+# Node versions jsdom supports (22 and 24).
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  tests:
+    name: node ${{ matrix.node }} on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        node: ['22', '24']
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm ci
+      - run: npm test

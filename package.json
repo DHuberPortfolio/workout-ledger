@@ -1,0 +1,16 @@
+{
+  "name": "workout-ledger",
+  "version": "1.0.0",
+  "description": "A single-file fitness ledger: calendar shaded by calorie deficit, lifts with automatic PRs, runs, food, a model-vs-scale weight chart and an exercise library.",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=22.22"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^30.1.3"
+  }
+}
