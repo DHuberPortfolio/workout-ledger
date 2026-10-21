@@ -2,6 +2,8 @@
 
 A single-file fitness dashboard for a cut: a calendar shaded by daily calorie deficit, lifting sessions with automatic PRs, runs, a food log with calories/protein/carbs, a **model-vs-scale weight chart**, trends, and a searchable exercise history.
 
+**Try it: https://dhuberportfolio.github.io/workout-ledger/**. Click **Load sample data** to see it with 45 days filled in. It runs in your browser, and your data stays there.
+
 No build step, no server, no dependencies — just `index.html`.
 
 ![Calendar](docs/shot-cal.png)
